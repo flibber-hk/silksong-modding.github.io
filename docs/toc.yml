@@ -1,0 +1,14 @@
+- name: Libraries
+  items:
+    - name: DataManager
+      href: https://github.com/silksong-modding/Silksong.DataManager
+    - name: FsmUtil
+      href: https://docs.silksong-modding.org/Silksong.FsmUtil
+    - name: I18N
+      href: https://github.com/silksong-modding/Silksong.I18N
+    - name: ModMenu
+      href: https://github.com/silksong-modding/Silksong.ModMenu
+    - name: Prepatcher
+      href: https://docs.silksong-modding.org/Silksong.Prepatcher
+    - name: UnityHelper
+      href: https://docs.silksong-modding.org/Silksong.UnityHelper
