@@ -6,7 +6,7 @@ modding basics and helpful topics related to the Silksong-specific development f
 
 ## Contributing guidelines
 
-- It's strongly recommended discuss potential additions to the docs in the
+- It's strongly recommended to discuss potential additions to the docs in the
   [#silksong-org-discussion](https://discord.com/channels/879125729936298015/1413054490621378610)
   channel in the Hollow Knight Modding Discord server before spending any effort writing. This will
   help ensure that the content you plan to add is (1) on-topic and (2) organized in line with the
