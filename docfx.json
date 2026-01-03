@@ -13,7 +13,7 @@
       }
     ],
     "output": "_site",
-    "template": ["default", "modern"],
+    "template": ["default", "modern", "silksong-modding-style"],
     "globalMetadata": {
       "_appName": "Silksong Modding",
       "_appTitle": "Silksong Modding",

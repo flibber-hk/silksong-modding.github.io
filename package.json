@@ -2,6 +2,7 @@
   "name": "silksong-modding-docs",
   "version": "1.0.0",
   "private": true,
+  "type": "commonjs",
   "scripts": {
     "prepare": "husky",
     "format": "prettier --write ."
