@@ -1,5 +1,7 @@
 - name: Libraries
   items:
+    - name: AssetHelper
+      href: https://docs.silksong-modding.org/Silksong.AssetHelper/
     - name: DataManager
       href: https://github.com/silksong-modding/Silksong.DataManager
     - name: FsmUtil
